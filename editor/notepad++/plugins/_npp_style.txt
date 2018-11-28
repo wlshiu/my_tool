@@ -1,0 +1,10 @@
+﻿$(NPP_DIRECTORY)\plugins\AStyle.exe -A1 -S -K -xW -w -Y -m1 -M40 -p -k3 -W3 -xL -c --suffix=none $(FULL_CURRENT_PATH)
+
+
+=================================
+Color:
+天藍:    135,206,235
+澄:      255,165,79
+墨灰:    189,174,157
+豆沙綠:  199,237,204
+
