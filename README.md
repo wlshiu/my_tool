@@ -9,6 +9,11 @@ useful tool
 + `新同文堂`
 + `Video Download Helper`
 + `Adblock Plus`
++ `The Great Suspender`
+    > 凍結暫時用不到的分頁, 達到系統資源釋放
+
++ `UnloadTab`
+    > 分頁調整功能, 幫 Firefox 瀏覽器節省記憶體
 
 
 # [cmder](https://cmder.net/)
