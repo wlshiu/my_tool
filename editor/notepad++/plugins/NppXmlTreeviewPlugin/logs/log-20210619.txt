@@ -1,0 +1,45 @@
+2021-06-19 09:43:56.346 +08:00 [Warning] 在根層次的資料無效。 行 1，位置 1。
+System.Xml.XmlException: 在根層次的資料無效。 行 1，位置 1。
+   於 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   於 System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   於 System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   於 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlTextReader.Read()
+   於 NppXmlTreeviewPlugin.Parsers.NppXmlNode.TryParse(String xml, String nodeNameAttribute, ILogger logger, NppXmlNode& nppXmlNode)
+2021-06-19 09:44:02.796 +08:00 [Warning] 在根層次的資料無效。 行 1，位置 1。
+System.Xml.XmlException: 在根層次的資料無效。 行 1，位置 1。
+   於 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   於 System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   於 System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   於 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlTextReader.Read()
+   於 NppXmlTreeviewPlugin.Parsers.NppXmlNode.TryParse(String xml, String nodeNameAttribute, ILogger logger, NppXmlNode& nppXmlNode)
+2021-06-19 09:44:04.886 +08:00 [Warning] 在根層次的資料無效。 行 1，位置 1。
+System.Xml.XmlException: 在根層次的資料無效。 行 1，位置 1。
+   於 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   於 System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   於 System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   於 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlTextReader.Read()
+   於 NppXmlTreeviewPlugin.Parsers.NppXmlNode.TryParse(String xml, String nodeNameAttribute, ILogger logger, NppXmlNode& nppXmlNode)
+2021-06-19 09:44:05.586 +08:00 [Warning] 在根層次的資料無效。 行 1，位置 1。
+System.Xml.XmlException: 在根層次的資料無效。 行 1，位置 1。
+   於 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   於 System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   於 System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   於 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlTextReader.Read()
+   於 NppXmlTreeviewPlugin.Parsers.NppXmlNode.TryParse(String xml, String nodeNameAttribute, ILogger logger, NppXmlNode& nppXmlNode)
+2021-06-19 09:44:09.856 +08:00 [Warning] 在根層次的資料無效。 行 1，位置 1。
+System.Xml.XmlException: 在根層次的資料無效。 行 1，位置 1。
+   於 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   於 System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   於 System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   於 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlTextReader.Read()
+   於 NppXmlTreeviewPlugin.Parsers.NppXmlNode.TryParse(String xml, String nodeNameAttribute, ILogger logger, NppXmlNode& nppXmlNode)
