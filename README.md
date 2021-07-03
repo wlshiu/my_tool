@@ -17,3 +17,9 @@ useful tool
 
 
 # [cmder](https://cmder.net/)
+
++ 添加 cmder 到右鍵
+
+    ```
+    λ Cmder.exe /REGISTER ALL
+    ```
