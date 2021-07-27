@@ -15,6 +15,17 @@ useful tool
 + `UnloadTab`
     > 分頁調整功能, 幫 Firefox 瀏覽器節省記憶體
 
++ `Survol`
+    > 用滑鼠預覽部分
+
++ `台股.com`
+    > 看盤擴充功能
+
++ `Panic Button`
+    > 網頁老闆鍵
+
++ `SimpleExtManager`
+    > "擴展管理器", 真正一鍵管理/開關所有套件！
 
 # [cmder](https://cmder.net/)
 
