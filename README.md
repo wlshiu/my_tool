@@ -9,7 +9,7 @@ useful tool
 + `新同文堂`
 + `Video Download Helper`
 + `Adblock Plus`
-+ `The Great Suspender`
++ `The Marvellous Suspender`
     > 凍結暫時用不到的分頁, 達到系統資源釋放
 
 + `UnloadTab`
