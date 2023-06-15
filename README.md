@@ -9,6 +9,8 @@ useful tool
 + `新同文堂`
 + `Video Download Helper`
 + `Adblock Plus`
++ Screen Recorder (Chrom)
+  > [屏幕錄像機 - Screen Recorder](https://www.jyes.com.tw/news.php?act=view&id=2601)
 + `The Marvellous Suspender`
     > 凍結暫時用不到的分頁, 達到系統資源釋放
 
