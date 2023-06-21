@@ -9,8 +9,14 @@ useful tool
 + `新同文堂`
 + `Video Download Helper`
 + `Adblock Plus`
-+ Screen Recorder (Chrom)
-  > [屏幕錄像機 - Screen Recorder](https://www.jyes.com.tw/news.php?act=view&id=2601)
++ Recorder
+  - Screen Recorder (Chrom)
+    > [屏幕錄像機 - Screen Recorder](https://www.jyes.com.tw/news.php?act=view&id=2601)
+  - Captura (open source base on ffmpeg)
+    > + [MathewSachin/Captura](https://github.com/MathewSachin/Captura/)
+    > + [Captura 8.0.0 免安裝中文版](https://www.azofreeware.com/2020/08/captura.html)
+  - [Audacity](https://www.audacityteam.org/)
+
 + `The Marvellous Suspender`
     > 凍結暫時用不到的分頁, 達到系統資源釋放
 
