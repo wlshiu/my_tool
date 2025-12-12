@@ -6,6 +6,9 @@ useful tool
 + Free Youtube
     - [下載 Brave | Brave](https://brave.com/zh/download/)
 
++ Waveform generator
+  - [WaveDrom - Digital timing diagram everywhere](https://wavedrom.com/)
+ - 
 # extensions of browser
 
 + `Save Page WE`
