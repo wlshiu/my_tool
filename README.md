@@ -43,6 +43,8 @@ useful tool
 
 + [`沉浸式翻譯`](https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AD%AF-%E7%B6%B2%E9%A0%81%E7%BF%BB%E8%AD%AF%E6%93%B4%E5%85%85-pdf%E7%BF%BB%E8%AD%AF-%E5%85%8D%E8%B2%BB/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
     > 網頁翻譯擴充 | PDF翻譯 | 免費
++ [leaf : Terminal Markdown previewer](https://leaf.rivolink.mg/)
+
 + 
 # [cmder](https://cmder.net/)
 
